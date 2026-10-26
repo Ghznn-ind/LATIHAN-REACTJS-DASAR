@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LATIHAN-REACTJS-DASAR/static/css/main.fc721ce2.css",
+    "main.js": "/LATIHAN-REACTJS-DASAR/static/js/main.f8a1b021.js",
+    "static/js/453.ddfe02c3.chunk.js": "/LATIHAN-REACTJS-DASAR/static/js/453.ddfe02c3.chunk.js",
+    "index.html": "/LATIHAN-REACTJS-DASAR/index.html",
+    "main.fc721ce2.css.map": "/LATIHAN-REACTJS-DASAR/static/css/main.fc721ce2.css.map",
+    "main.f8a1b021.js.map": "/LATIHAN-REACTJS-DASAR/static/js/main.f8a1b021.js.map",
+    "453.ddfe02c3.chunk.js.map": "/LATIHAN-REACTJS-DASAR/static/js/453.ddfe02c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc721ce2.css",
+    "static/js/main.f8a1b021.js"
+  ]
+}
